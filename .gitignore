@@ -1,0 +1,10 @@
+node_modules/
+npm-debug.log*
+.env
+.env.*
+.vscode/
+.idea/
+*.pem
+dist/
+build/
+docker-compose.override.yml
