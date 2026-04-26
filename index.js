@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000;
 
 // main route 
 app.get('/', (req, resp) => {
-    resp.send('Hello from Krishna server 🚀');
+    resp.send('Hello from CI/CD 🚀 🚀');
 });
 
 // health check route 
